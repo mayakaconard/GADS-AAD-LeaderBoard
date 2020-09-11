@@ -9,5 +9,6 @@ and present it in the android app.<br/>
 
 - Below are the screenshots of the application<br><br>
 
-<img src="launcher_splashscreen.png" width="250"/> <img src="learning_leaders.png" width="250"/> <img src="skill_iq_leaders.png" width="200"/> <img src="empty_fields.png" width="250"/><br/>
- <img src="prompt_alert.png" width="250"/> <img src="submission_success.png" width="250"/> <img src="submission_failed.png" width="250"/>
+<img src="launcher_splashscreen.png" width="250"/> <img src="learning_leaders.png" width="250"/> <img src="skill_iq_leaders.png" width="250"/><br>
+ <img src="empty_fields.png" width="250"/> <img src="prompt_alert.png" width="250"/> <img src="submission_success.png" width="250"/> <br>
+ <img src="submission_failed.png" width="250"/>
