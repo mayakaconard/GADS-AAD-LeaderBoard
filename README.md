@@ -7,8 +7,8 @@ and present it in the android app.<br/>
 3.API<br/>
 4.Google Forms for submitting the project github repository<br>
 
-- Below are the screenshots of the application
-<b>SCREENSHOTS</b><br/>
+- Below are the screenshots of the application<br><br>
+
 <img src="launcher_splashscreen.png" width="200"/> <img src="learning_leaders.png" width="200"/><br>
 <img src="skill_iq_leaders.png" width="200"/> <img src="empty_fields.png" width="200"/><br/>
 <img src="failed_submission.png" width="200"/> <img src="prompt_alert.png" width="200"/><br>
