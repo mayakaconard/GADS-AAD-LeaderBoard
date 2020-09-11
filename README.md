@@ -9,11 +9,7 @@ and present it in the android app.<br/>
 
 - Below are the screenshots of the application
 <b>SCREENSHOTS</b><br/>
-<img src="launcher_splashscreen.png" width="200"/>
-<img src="learning_leaders.png" width="200"/>
-<img src="skill_iq_leaders.png" width="200"/>
-<img src="empty_fields.png" width="200"/><br/>
-<img src="failed_submission.png" width="200"/>
-<img src="prompt_alert.png" width="200"/>
-<img src="submission_success.png" width="200"/>
-<img src="submission_failed.png" width="200"/>
+<img src="launcher_splashscreen.png" width="200"/> <img src="learning_leaders.png" width="200"/>
+<img src="skill_iq_leaders.png" width="200"/> <img src="empty_fields.png" width="200"/><br/>
+<img src="failed_submission.png" width="200"/> <img src="prompt_alert.png" width="200"/>
+<img src="submission_success.png" width="200"/> <img src="submission_failed.png" width="200"/>
